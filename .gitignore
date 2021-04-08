@@ -1,0 +1,13 @@
+/e2e
+/node_modules
+.browserslistrc
+.editorconfig
+angular.json
+karma.conf.js
+karma.conf.js
+package-lock.json
+package.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+tslint.json
